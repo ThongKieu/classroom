@@ -21,7 +21,7 @@
     padding-top: 30px;
 }
 
-.card {
+.card-item {
     box-shadow: 5px 10px #e0e0e0;
 }
 
@@ -39,3 +39,10 @@
 
 
 /* end listLesson  */
+
+.title {
+    background-image: url("https://gstatic.com/classroom/themes/img_bookclub.jpg");
+    color: #ffffff;
+    height: 200px;
+    margin-top: 25px;
+}
